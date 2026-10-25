@@ -1,0 +1,60 @@
+# Build output
+target/
+*.jar
+!src/**/*.jar
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IDE - VS Code
+.vscode/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# SQLite databases (runtime generated)
+*.db
+
+# Qoder
+.qoder/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~

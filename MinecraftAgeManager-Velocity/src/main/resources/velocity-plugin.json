@@ -1,0 +1,11 @@
+{
+  "id": "minecraftagemanager",
+  "name": "MinecraftAgeManager",
+  "version": "${version}",
+  "main": "com.yuxiangwang0525.minecraftAgeManagerVelocity.MinecraftAgeManagerVelocity",
+  "description": "MCAP 未成年人防沉迷管理系统 - Velocity 版本",
+  "url": "yuxiangwang0525.com",
+  "authors": [
+    "RiverFrozer"
+  ]
+}
